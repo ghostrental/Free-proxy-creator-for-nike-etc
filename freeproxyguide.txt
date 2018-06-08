@@ -1,0 +1,36 @@
+https://drive.google.com/drive/folders/11_abLmpXvLnMRytIs6fzMLqeFkEAooAc?usp=sharing
+
+STEP BY STEP GUIDE FOR MAKING PROXY
+
+1. Sign up using this link https://www.upcloud.com/register/?promo=229UV7
+in order to get $25USD free credit, Min top up of $10 is required. 
+
+2.Go to your Dashboard, Select Servers, Deploy a server.
+
+3. Give your server a name, eg. ghostserver
+and in "short server description" type in any word such as testing
+
+4. Select a country for the proxy to be located. 
+
+5. Under Define Configuration, Choose $5/Month $0.0007/hour package
+
+6. Under OS template, select CentOS 6.9
+
+7.Under Miscellaneous Server Settings copy the script in the Initaliszation script empty box
+
+8. Click Deploy and wait for the proxy to be created. it may take a 1-2min.
+once the proxy is generated, you will see the IP of the proxy in your server listing.
+
+EXAMPLE OF THE FORMAT OF THE PROXIES
+
+IP:PORT:USERNAME:PW
+
+94.237.50.101:3128:ghostrental:ghost123
+
+9. the script is dafault to login by PORT:3128, USERNAME:ghostrental PW:ghost123
+You can change the username and pw in the script if you want. but we suggest to keep
+port, username and pw the same. 
+
+10. From the format proxy example, you can repeatly deploy as many server as you want,
+each time you deploy a new server it will generate a new IP. and you can create mutli proxy
+with the same format as above but changing the IP.
