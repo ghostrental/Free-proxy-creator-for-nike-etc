@@ -5,6 +5,12 @@ STEP BY STEP GUIDE FOR MAKING PROXY
 1. Sign up using this link https://www.upcloud.com/register/?promo=229UV7
 in order to get $25USD free credit, Min top up of $10 is required. 
 
+(activating the account can take some time, you could email the support 
+to activate your account instantly by confirming your details)
+
+The $10 top up will activate your account from trial to basic which grant
+access to using the script and proxies.
+
 2.Go to your Dashboard, Select Servers, Deploy a server.
 
 3. Give your server a name, eg. ghostserver
